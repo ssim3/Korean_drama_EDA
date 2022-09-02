@@ -1,2 +1,1 @@
-# Top100Kdrama_eda
- Exploratory Data Analysis
+# Top 100 Kdramas EDA
