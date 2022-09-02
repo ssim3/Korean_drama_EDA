@@ -2,6 +2,12 @@
 ![hospital_playlist](https://github.com/ssim3/Kdrama_EDA/blob/main/hospital_playlist.jpg)
 
 # About
+This project is an EDA on the Top 100 Kdramas (By Rating) on MyDramaList :information_source:
+<br>
+The project aims to pull some useful insights from the data provided in the CSV file.
+
+
+# Backstory
 After completing just about ~~a hundred~~ pandas courses online, I think it was about time I started my **first** EDA project.
 <br>
 <br>
